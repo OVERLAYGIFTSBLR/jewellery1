@@ -1,0 +1,8 @@
+List of Fonts used in template 
+
+
+
+Alex Brush		http://www.google.com/fonts/specimen/Alex+Brush
+Font Awesome		http://fortawesome.github.io/Font-Awesome
+
+
